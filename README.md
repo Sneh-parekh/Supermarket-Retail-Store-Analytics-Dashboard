@@ -7,6 +7,7 @@ This project is an interactive Excel-based analytics dashboard developed for a s
 The project focuses on transforming raw retail data into meaningful business insights through professional and visually interactive dashboards.
 
 ---
+![Dashboard Overview](Images/Dashboard_Overview.png)
 
 # 📂 Dashboard Pages
 
@@ -172,19 +173,19 @@ Contains pending payment and receivable details.
 
 ## Pivot Table Page1
 
-![Pivot_Table](Screenshots/sales-pivot.png)
+![Pivot_Table](Images/Pivot_Table_1.png)
 
 ---
 
 ## Pivot Table Page2
 
-![Pivot_Table](Screenshots/employee-pivot.png)
+![Pivot_Table](Images/Pivot_Table_2.png)
 
 ---
 
 ## Pivot Table Page3
 
-![Pivot_Table](Screenshots/receivables-pivot.png)
+![Pivot_Table](Images/Pivot_Table_3.png)
 
 ---
 
