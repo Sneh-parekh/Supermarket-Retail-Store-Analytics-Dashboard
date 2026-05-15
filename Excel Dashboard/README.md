@@ -2,4 +2,4 @@
 
 Due to GitHub file size limitations, download the complete dashboard here:
 
-[Download Dashboard File](https://docs.google.com/spreadsheets/d/17GUIEOzyUTEi7-mdwtXwmICYXnmFIXIP/edit?usp=drive_link&ouid=110652917078663939259&rtpof=true&sd=true)
+[Download Dashboard File](https://drive.google.com/drive/u/0/folders/1OpOle9ODn4n68snWvRf8lc3l-I7EQkOI)
