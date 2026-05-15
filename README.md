@@ -152,39 +152,39 @@ Contains pending payment and receivable details.
 
 ## Dashboard Overview
 
-![Dashboard Overview](Screenshots/overview-dashboard.png)
+![Dashboard Overview](Images/Dashboard_Overview.png)
 
 ---
 
 ## Employee Performance Dashboard
 
-![Employee Dashboard](Screenshots/employee-dashboard.png)
+![Employee Dashboard](Images/Employee_Performance_Dashboard.png)
 
 ---
 
 ## Receivables Analysis Dashboard
 
-![Receivables Dashboard](Screenshots/receivables-dashboard.png)
+![Receivables Dashboard](Images/Receivables_Analysis_Dashboard.png)
 
 ---
 
 # 📈 Backend Pivot Table Analysis
 
-## Sales Pivot Analysis
+## Pivot Table Page1
 
-![Sales Pivot](Screenshots/sales-pivot.png)
-
----
-
-## Employee Pivot Analysis
-
-![Employee Pivot](Screenshots/employee-pivot.png)
+![Pivot_Table](Screenshots/sales-pivot.png)
 
 ---
 
-## Receivables Pivot Analysis
+## Pivot Table Page2
 
-![Receivables Pivot](Screenshots/receivables-pivot.png)
+![Pivot_Table](Screenshots/employee-pivot.png)
+
+---
+
+## Pivot Table Page3
+
+![Pivot_Table](Screenshots/receivables-pivot.png)
 
 ---
 
@@ -194,7 +194,7 @@ Due to GitHub file size limitations, the complete interactive Excel dashboard fi
 
 Add your Google Drive download link below:
 
-[Download Excel Dashboard](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Download Excel Dashboard](https://drive.google.com/drive/u/0/folders/1OpOle9ODn4n68snWvRf8lc3l-I7EQkOI)
 
 ---
 
